@@ -1,0 +1,18 @@
+<annotation>
+    <folder>2017-10-29 20-24-38</folder>
+    <filename>115.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>490</height>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tail</name>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>51</ymin>
+            <xmax>177</xmax>
+            <ymax>147</ymax>
+        </bndbox>
+    </object>
+</annotation>
